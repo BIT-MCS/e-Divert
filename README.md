@@ -60,7 +60,7 @@ If you are interested in our work, please cite our paper as
 ```
 @ARTICLE{liu2021distributed,
     author={Liu, Chi Harold and Dai, Zipeng and Zhao, Yinuo and Crowcroft, Jon and Wu, Dapeng and Leung, Kin K.},
-    journal={IEEE Transactions on Mobile Computing},
+    journal={IEEE Transactions on Mobile Computing (TMC)},
     title={Distributed and Energy-Efficient Mobile Crowdsensing with Charging Stations by Deep Reinforcement Learning},
     year={2021},
     volume={20},
